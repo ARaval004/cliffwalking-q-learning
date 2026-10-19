@@ -1,0 +1,4 @@
+gymnasium[toy-text]
+numpy
+matplotlib
+moviepy
